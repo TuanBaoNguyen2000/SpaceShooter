@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c5548d33c65ea9f408ddf3ecb329ea81, type: 3}
+  m_Name: Model_3
+  m_EditorClassIdentifier: 
+  NameModel: JMF-Eagle-600
+  Prefab: {fileID: 4047625689182995056, guid: 941b39dcc0847094a9f548f6605084ba, type: 3}
+  PointGunList:
+  - {x: 0.25, y: 0}
+  - {x: -0.25, y: 0}
+  - {x: 0, y: 0.35}
+  MaxSpeedModel: 7
+  LoadCapacity: 8
+  HeathPoint: 34

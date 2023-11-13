@@ -1,0 +1,584 @@
+fileFormatVersion: 2
+guid: b3987f855be01cb4daaa96760dae9704
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  textureImporterSettings:
+    alphaSource: 1
+    mipMapMode: 0
+    enableMipMap: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+    convertToNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+    swizzle: 50462976
+    isReadable: 0
+    streamingMipmaps: 0
+    streamingMipmapsPriority: 0
+    vTOnly: 0
+    ignoreMipmapLimit: 0
+    nPOTScale: 1
+    sRGBTexture: 1
+    spriteMode: 2
+    spriteExtrude: 1
+    spriteMeshType: 1
+    alignment: 0
+    spritePivot: {x: 0.5, y: 0.5}
+    spritePixelsToUnits: 100
+    spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+    spriteGenerateFallbackPhysicsShape: 0
+    generateCubemap: 6
+    cubemapConvolution: 0
+    seamlessCubemap: 0
+    alphaIsTransparency: 1
+    spriteTessellationDetail: -1
+    textureType: 8
+    textureShape: 1
+    singleChannelComponent: 0
+    flipbookRows: 0
+    flipbookColumns: 0
+    ignorePngGamma: 0
+    cookieMode: 0
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+    normalMap: 0
+    textureFormat: 0
+    maxTextureSize: 0
+    lightmap: 0
+    compressionQuality: 0
+    linearTexture: 0
+    grayScaleToAlpha: 0
+    rGBM: 0
+    cubemapConvolutionSteps: 0
+    cubemapConvolutionExponent: 0
+    maxTextureSizeSet: 0
+    compressionQualitySet: 0
+    textureFormatSet: 0
+    applyGammaDecoding: 0
+  previousAsepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  asepriteImporterSettings:
+    fileImportMode: 1
+    importHiddenLayers: 0
+    layerImportMode: 1
+    defaultPivotSpace: 0
+    defaultPivotAlignment: 7
+    customPivotPosition: {x: 0.5, y: 0.5}
+    spritePadding: 0
+    generateModelPrefab: 1
+    generateAnimationClips: 1
+    addSortingGroup: 1
+    addShadowCasters: 0
+  importFileNodeState: 1
+  platformSettingsDirtyTick: 0
+  textureAssetName: 
+  singleSpriteImportData:
+  - name: 
+    originalName: 
+    pivot: {x: 0, y: 0}
+    alignment: 0
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 0
+      y: 0
+      width: 0
+      height: 0
+    spriteID: 
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 0, y: 0}
+  animatedSpriteImportData:
+  - name: Main Ship - Weapons - Rockets_Frame_0
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.55}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 173
+      y: 36
+      width: 34
+      height: 20
+    spriteID: 4ab3a62ea43091c4fa066f0cd1350f0e
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 173, y: 36}
+  - name: Main Ship - Weapons - Rockets_Frame_1
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.55}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 215
+      y: 36
+      width: 34
+      height: 20
+    spriteID: 8b62379e003171a459653062e49e3a99
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 215, y: 36}
+  - name: Main Ship - Weapons - Rockets_Frame_2
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.52380955}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 131
+      y: 36
+      width: 34
+      height: 21
+    spriteID: 6a48426b28eabd241b09460e25af08db
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 131, y: 36}
+  - name: Main Ship - Weapons - Rockets_Frame_3
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.47826087}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 214
+      y: 4
+      width: 34
+      height: 23
+    spriteID: ce4330b1ed560d040a0d8b8e8e0d73e7
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 214, y: 4}
+  - name: Main Ship - Weapons - Rockets_Frame_4
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.45833334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 4
+      width: 34
+      height: 24
+    spriteID: 506dc49ceaf7c2d4face949af097b1ea
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 4}
+  - name: Main Ship - Weapons - Rockets_Frame_5
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.47826087}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 36
+      width: 34
+      height: 23
+    spriteID: 7ba803c7c0980fe4bb951efe5592a4fa
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 36}
+  - name: Main Ship - Weapons - Rockets_Frame_6
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.45833334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 4
+      width: 34
+      height: 24
+    spriteID: 2d200a055cda18444b5656f440461af4
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 4}
+  - name: Main Ship - Weapons - Rockets_Frame_7
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.47826087}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 46
+      y: 36
+      width: 34
+      height: 23
+    spriteID: 8b7a6d6e914c7434f8304bd8a857a5cb
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 46, y: 36}
+  - name: Main Ship - Weapons - Rockets_Frame_8
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.45833334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 4
+      width: 34
+      height: 24
+    spriteID: f5d2c837e0317694681930a2d97bf95a
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 4}
+  - name: Main Ship - Weapons - Rockets_Frame_9
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.41666666}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 130
+      y: 4
+      width: 34
+      height: 24
+    spriteID: 90d910c3b0a162f45ae7749701660436
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 130, y: 4}
+  - name: Main Ship - Weapons - Rockets_Frame_10
+    originalName: 
+    pivot: {x: 0.50000006, y: -0.45833334}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 172
+      y: 4
+      width: 34
+      height: 24
+    spriteID: 7326c40d098408e41ade74e9e4ce6f9c
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 172, y: 4}
+  - name: Main Ship - Weapons - Rockets_Frame_11
+    originalName: 
+    pivot: {x: 0.51428574, y: -0.45454547}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 88
+      y: 36
+      width: 35
+      height: 22
+    spriteID: b521fe54a7a8c5343a9359abdded92b8
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 88, y: 36}
+  - name: Main Ship - Weapons - Rockets_Frame_12
+    originalName: 
+    pivot: {x: 0.5405405, y: -1.8181819}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 4
+      y: 67
+      width: 37
+      height: 11
+    spriteID: 7ca78948214b329468f75f78c79cfc35
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 4, y: 67}
+  - name: Main Ship - Weapons - Rockets_Frame_13
+    originalName: 
+    pivot: {x: 0.53846157, y: -5}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 49
+      y: 67
+      width: 39
+      height: 5
+    spriteID: 983e67b4f869a20429391923fffb6374
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 49, y: 67}
+  - name: Main Ship - Weapons - Rockets_Frame_14
+    originalName: 
+    pivot: {x: -0.8181819, y: -5.2000003}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 96
+      y: 67
+      width: 11
+      height: 5
+    spriteID: d76de25503e4c1f4b9bbb4bed2e14cd9
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 96, y: 67}
+  - name: Main Ship - Weapons - Rockets_Frame_15
+    originalName: 
+    pivot: {x: -0.6153847, y: -8.333333}
+    alignment: 9
+    border: {x: 0, y: 0, z: 0, w: 0}
+    rect:
+      serializedVersion: 2
+      x: 115
+      y: 67
+      width: 13
+      height: 3
+    spriteID: 9386bac329fdd02499b9f24359c8d3de
+    spriteBone: []
+    spriteOutline: []
+    vertices: []
+    spritePhysicsOutline: []
+    indices: 
+    edges: []
+    tessellationDetail: 0
+    uvTransform: {x: 115, y: 67}
+  spriteSheetImportData: []
+  asepriteLayers:
+  - layerIndex: 0
+    guid: -903457953
+    name: Main Ship - Weapons - Rockets
+    layerFlags: 0
+    layerType: 0
+    blendMode: 0
+    cells:
+    - name: Main Ship - Weapons - Rockets_Frame_0
+      frameIndex: 0
+      cellRect:
+        x: 7
+        y: 11
+        width: 34
+        height: 20
+      spriteId: 4ab3a62ea43091c4fa066f0cd1350f0e
+    - name: Main Ship - Weapons - Rockets_Frame_1
+      frameIndex: 1
+      cellRect:
+        x: 7
+        y: 11
+        width: 34
+        height: 20
+      spriteId: 8b62379e003171a459653062e49e3a99
+    - name: Main Ship - Weapons - Rockets_Frame_2
+      frameIndex: 2
+      cellRect:
+        x: 7
+        y: 11
+        width: 34
+        height: 21
+      spriteId: 6a48426b28eabd241b09460e25af08db
+    - name: Main Ship - Weapons - Rockets_Frame_3
+      frameIndex: 3
+      cellRect:
+        x: 7
+        y: 11
+        width: 34
+        height: 23
+      spriteId: ce4330b1ed560d040a0d8b8e8e0d73e7
+    - name: Main Ship - Weapons - Rockets_Frame_4
+      frameIndex: 4
+      cellRect:
+        x: 7
+        y: 11
+        width: 34
+        height: 24
+      spriteId: 506dc49ceaf7c2d4face949af097b1ea
+    - name: Main Ship - Weapons - Rockets_Frame_5
+      frameIndex: 5
+      cellRect:
+        x: 7
+        y: 11
+        width: 34
+        height: 23
+      spriteId: 7ba803c7c0980fe4bb951efe5592a4fa
+    - name: Main Ship - Weapons - Rockets_Frame_6
+      frameIndex: 6
+      cellRect:
+        x: 7
+        y: 11
+        width: 34
+        height: 24
+      spriteId: 2d200a055cda18444b5656f440461af4
+    - name: Main Ship - Weapons - Rockets_Frame_7
+      frameIndex: 7
+      cellRect:
+        x: 7
+        y: 11
+        width: 34
+        height: 23
+      spriteId: 8b7a6d6e914c7434f8304bd8a857a5cb
+    - name: Main Ship - Weapons - Rockets_Frame_8
+      frameIndex: 8
+      cellRect:
+        x: 7
+        y: 11
+        width: 34
+        height: 24
+      spriteId: f5d2c837e0317694681930a2d97bf95a
+    - name: Main Ship - Weapons - Rockets_Frame_9
+      frameIndex: 9
+      cellRect:
+        x: 7
+        y: 10
+        width: 34
+        height: 24
+      spriteId: 90d910c3b0a162f45ae7749701660436
+    - name: Main Ship - Weapons - Rockets_Frame_10
+      frameIndex: 10
+      cellRect:
+        x: 7
+        y: 11
+        width: 34
+        height: 24
+      spriteId: 7326c40d098408e41ade74e9e4ce6f9c
+    - name: Main Ship - Weapons - Rockets_Frame_11
+      frameIndex: 11
+      cellRect:
+        x: 6
+        y: 10
+        width: 35
+        height: 22
+      spriteId: b521fe54a7a8c5343a9359abdded92b8
+    - name: Main Ship - Weapons - Rockets_Frame_12
+      frameIndex: 12
+      cellRect:
+        x: 4
+        y: 20
+        width: 37
+        height: 11
+      spriteId: 7ca78948214b329468f75f78c79cfc35
+    - name: Main Ship - Weapons - Rockets_Frame_13
+      frameIndex: 13
+      cellRect:
+        x: 3
+        y: 25
+        width: 39
+        height: 5
+      spriteId: 983e67b4f869a20429391923fffb6374
+    - name: Main Ship - Weapons - Rockets_Frame_14
+      frameIndex: 14
+      cellRect:
+        x: 33
+        y: 26
+        width: 11
+        height: 5
+      spriteId: d76de25503e4c1f4b9bbb4bed2e14cd9
+    - name: Main Ship - Weapons - Rockets_Frame_15
+      frameIndex: 15
+      cellRect:
+        x: 32
+        y: 25
+        width: 13
+        height: 3
+      spriteId: 9386bac329fdd02499b9f24359c8d3de
+    linkedCells: []
+    parentIndex: -1
+  platformSettings: []
+  secondarySpriteTextures: []
+  spritePackingTag: 
+  canvasSize: {x: 48, y: 48}
