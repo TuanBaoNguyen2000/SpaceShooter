@@ -4,6 +4,11 @@ using UnityEngine;
 
 public class Sequence : CompositeNode
 {
+    public Sequence(List<Node> childNodes)
+    {
+        this.childNodes = childNodes;
+    }
+
     public override NodeState Evaluate()
     {
         if (childNodes == null) return NodeState.FAILURE;

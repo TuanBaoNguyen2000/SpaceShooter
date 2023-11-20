@@ -4,6 +4,11 @@ using UnityEngine;
 
 public class Selector : CompositeNode
 {
+    public Selector(List<Node> childNodes)
+    {
+        this.childNodes = childNodes;
+    }
+
     public override NodeState Evaluate()
     {
         if (childNodes == null) return NodeState.FAILURE;

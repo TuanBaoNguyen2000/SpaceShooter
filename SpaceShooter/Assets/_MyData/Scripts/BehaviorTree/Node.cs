@@ -4,7 +4,7 @@ using UnityEngine;
 
 public abstract class Node
 {
-    public Node parent;
+    //public Node parent;
 
     public abstract NodeState Evaluate();
 }

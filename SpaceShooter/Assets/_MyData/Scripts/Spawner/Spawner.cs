@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public abstract class Spawner : Singleton<Spawner>
+public abstract class Spawner : MonoBehaviour
 {
     [Header("Spawner")]
     [SerializeField] protected Transform holder;

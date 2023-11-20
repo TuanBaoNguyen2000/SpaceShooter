@@ -4,7 +4,7 @@ using UnityEngine;
 
 public abstract class CompositeNode : Node
 {
-    protected List<Node> childNodes = new List<Node>();
+    protected List<Node> childNodes;
 
     public void AddChild(Node node)
     {
